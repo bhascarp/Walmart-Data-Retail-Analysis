@@ -7,7 +7,7 @@ The data was available for years 2010, 2011 and 2012.
 
 The analysis answered below key questions:
 
-Which store is performing well and has a good growth rate? How significant are they from one another?
-How are sales at different time periods?
-Are the holidays affecting the sales in the stores? If so, how significant compared to non-holiday days?
-Do the factors: temperature on day of sale, fuel price in the region, prevailing consumer price index and prevailing unemployment rate have an impact on the sales?
+1. Which store is performing well and has a good growth rate? How significant are they from one another?
+2. How are sales at different time periods?
+3. Are the holidays affecting the sales in the stores? If so, how significant compared to non-holiday days?
+4. Did the factors: temperature on day of sale, fuel price in the region, prevailing consumer price index and prevailing unemployment rate have an impact on the sales?
