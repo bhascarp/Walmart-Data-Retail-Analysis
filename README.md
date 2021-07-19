@@ -1,4 +1,4 @@
-# Walmart-Data-Retail-Analysis
+# Walmart Data-Retail Analysis
 Overview:
 
 One of the leading retail stores in the US, Walmart, would like to predict the sales and demand accurately. The business needs to understand the sales in their 45 stores and the impact of holidays and other factors. So, the objective of this project is to do the data analysis and provide insights to the stakeholders.
